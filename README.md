@@ -20,6 +20,7 @@ Date Table with Date Hierarchy
 
 
 5) DAX MEASURES
+   
 - Campaing related: AvgWebVisits, CampaingAcceptanceRate, CampaignSuccess, HighResponders, ResponseRate, ResponsePerUser
 - Other: AvgIncome, TotalComplaints, DistinctCustomers, OrderCount, RevenuePerDistinctCustomer, TotwalWebVisits, WebPurchases
 - Created Age bins, Income bins and Recency bins

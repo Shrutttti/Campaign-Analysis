@@ -5,7 +5,8 @@ This project uses Power BI to analyse the marketing campaign data and understand
 
 Data is collected from open CSV files from Kaggle datasource
 
-2) DATA TRANSFORMATION
+2) DATA TRANSFORMATION#
+   
 - Renamed the column names for better understanding
 - Handled missing values in income column with median income and rounded up the decimal values
 - Unpivoted Campaign result, purchase source and product type columns and renamed the resulting columns
@@ -13,9 +14,11 @@ Data is collected from open CSV files from Kaggle datasource
 
 
 3) CALCULATED COLUMNS
+
 CustomerAge, BirthYear, CustomerTenure
 
 4) CALCULATED TABLE
+
 Date Table with Date Hierarchy 
 
 
